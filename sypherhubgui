@@ -1854,4 +1854,4 @@ function library:Create(id)
 	end
 	return tab
 end
-°
+return library
